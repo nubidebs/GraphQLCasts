@@ -1,4 +1,3 @@
 This is an old repo taken from one of Stephen Grider's courses [!repo](https://github.com/StephenGrider/GraphQLCasts)
 
-
-run 'npm i --legacy-peer-deps' to force install
+run `npm i --legacy-peer-deps` to force install
